@@ -1,7 +1,6 @@
 # Assembly Language and Computer Architecture
-Include 2 projects developed by MIPS Assembly Language:
+Include 1 projects developed by MIPS Assembly Language:
 - Curiosity Marsbot
-- Palindrome String
 
 # Curiosity Marsbot
 The Curioisity Marsbot autonomous vehicle runs on Mars, which is operated remotely by programmers on Earth. 
